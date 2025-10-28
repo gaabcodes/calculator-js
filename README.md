@@ -14,12 +14,12 @@
 
 <h2 id="learning">📚 Aprendizados</h2>
 
-É um projetinho basico sem muito layout, a ideia era aprimorar mconhecimentos em manipulação do DOM, tratamento de eventos que foi utilizado o addEventListener para selecionar os numeros e um outro para os operadores,
-foi criado três funções em JavaScript uma pra selecionar os numeros, outra pra limpar e, sobretudo, uma função principal que gera o calculo. Ela foi responsavel por criar validaçoes utilizando da estrutura do REGEX para selecionar os operadores,
-e para a operação final dos numeros uma estrutura de SWITCH CASA para cada tipo de operação. 
-Gerando o resultado no display da calculadora.
+Este é um projeto simples, desenvolvido com o objetivo de aprimorar meus conhecimentos em manipulação do DOM e tratamento de eventos em JavaScript. Foram utilizados métodos como addEventListener para capturar a interação do usuário, tanto na seleção dos números quanto dos operadores.
 
-Foi uma ótima oportunidade para entender a dinâmica entre HTML, CSS e JavaScript em uma aplicação com interatividade mesmo que seja um projeto simples, foi importante entender a lógica por tras e a estrutura dessas tecnologias em conjunto.
+O código conta com três funções principais: uma responsável por registrar os números digitados, outra para limpar o display e uma função central que realiza o cálculo. Essa função principal inclui validações por meio de expressões regulares (RegEx) para identificar os operadores e utiliza uma estrutura switch case para executar a operação correspondente.
+
+O resultado final é exibido no display da calculadora.
+Apesar de ser um projeto básico e com layout simples, foi uma excelente oportunidade para compreender melhor a integração entre HTML, CSS e JavaScript, bem como a lógica e a estrutura necessárias para criar uma aplicação interativa.
 
 # 🧲 Ferramentas Utilizados
 
