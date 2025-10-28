@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: bold;">Calculadora em JS🔢</h1>
-<b>Calculadora simples desenvolvida em JavaScript puro, capaz de realizar operações básicas como soma, subtração, multiplicação e divisão.</b> </p>
+<b>Calculadora em JavaScript puro, capaz de realizar operações básicas como soma, subtração, multiplicação e divisão.</b> </p>
 
 <h2 id="layout">🎨 Layout</h2> <p align="center">
   <p align="center"> 
