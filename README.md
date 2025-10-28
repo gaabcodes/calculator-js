@@ -2,8 +2,9 @@
 <b>Uma calculadora simples desenvolvida em JavaScript puro, capaz de realizar operações básicas como soma, subtração, multiplicação e divisão.</b> </p>
 
 <h2 id="layout">🎨 Layout</h2> <p align="center">
-  <img src="./cal.png" alt="Layout da Calculadora" width="400px">
   <p align="center"> 
+    <img src="calc.png" alt="Layout da Calculadora" width="300px" height="300">
+    <img src="calc2.png" alt="Layout da Calculadora" width="300px" height="300">
   </p>
 
 </p> <h2 id="technologies">💻 Technologies</h2>
